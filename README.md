@@ -1,4 +1,4 @@
-### Hello, I'm Subir. I do open source!👋
+### Hello, I'm Subir!👋
 I'm a self-taught passionate Full Stack developer from Bangladesh.
 
 ### About me
