@@ -11,4 +11,7 @@ I'm a self-taught passionate Full Stack developer from Bangladesh.
 
 💬 Ask me about anything here
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=sbsubir&layout=compact) ![Subir's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbsubir&show_icons=true&theme=transparent)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbsubir&layout=compact" height="165" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sbsubir&show_icons=true&theme=transparent" height="165" alt="GitHub Stats" />
+</div>
