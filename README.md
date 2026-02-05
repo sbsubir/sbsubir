@@ -8,7 +8,7 @@ I'm a self-taught, passionate full-stack developer from Bangladesh.
 ❤️ I love writing TypeScript and building fun experiments on the type level  
 💬 Ask me about anything here  
 
----
+--
 
 <div align="center">
   <img
